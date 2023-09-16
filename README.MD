@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Summary Shorts</h1>
 
-### 🏠 [Homepage](https://https://github.com/CharlesVeronezi)
+### 🏠 [Homepage](https://github.com/CharlesVeronezi)
 
 ## 🎉 Start server
 
